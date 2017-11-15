@@ -8,3 +8,4 @@ This is a public list of people in the Victoria tech community that are looking 
 |-------------------------|--------------------------|--------------------------------------------------|--------------------------------|
 | [Jerrett Strain](https://www.linkedin.com/in/jerrett/) | jerrett@5stone.io  | Tech Leadership, Dev Team Leads, Health Care SaaS |  N/A |
 | [Jamie Starke](https://www.jamiestarke.com) | mentoring@jamiestarke.com  | DevOps, AWS, Cloud Architecture |  N/A |
+| [Garrett Hyder](https://eclipse3sixty.com) | garrett@eclipse3sixty.com  | WordPress, Foundation, PHP, MySQL |  N/A |
