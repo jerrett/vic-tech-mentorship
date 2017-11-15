@@ -10,4 +10,5 @@ This is a public list of people in the Victoria tech community that are looking 
 | [Jamie Starke](https://www.jamiestarke.com) | mentoring@jamiestarke.com  | DevOps, AWS, Cloud Architecture |  N/A |
 | [Colin Gislason](https://github.com/cgislason) | colin@fanfoot.ca  | iOS, Web & Slack app development |  N/A |
 | [Garrett Hyder](https://eclipse3sixty.com) | garrett@eclipse3sixty.com  | WordPress, Foundation, PHP, MySQL |  N/A |
+| [Hez Ronningen](https://github.com/hez) | mentorship@hez.ca | Sr Dev, Rails, Architeccture/Design | Dev Team Lead, Sr Manager |
 
