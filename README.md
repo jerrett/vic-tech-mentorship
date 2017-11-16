@@ -2,6 +2,7 @@
 
 This is a public list of people in the Victoria tech community that are available for informal mentorship. If you want to be on this list, issue a pull request.
 
+If you are looking for mentorship, reach out directly to appropriate people on this list. Be intentional about what it is you are looking for!
 
 
  Name                    | Contact                  | Experience/Skills  
