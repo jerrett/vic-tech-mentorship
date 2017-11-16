@@ -11,3 +11,5 @@ If you are looking for mentorship, reach out directly to appropriate people on t
  [Jamie Starke](https://www.jamiestarke.com) | mentoring@jamiestarke.com  | DevOps, AWS, Cloud Architecture 
  [Colin Gislason](https://github.com/cgislason) | colin@fanfoot.ca  | iOS, Web & Slack app development  
  [Garrett Hyder](https://eclipse3sixty.com) | garrett@eclipse3sixty.com  | WordPress, Foundation, PHP, MySQL 
+ [Hez Ronningen](https://github.com/hez) | mentorship@hez.ca | Sr Dev, Rails, Architecture/Design 
+
