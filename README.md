@@ -13,6 +13,7 @@ This is a public list of people in the Victoria tech community that are availabl
  [Hez Ronningen](https://github.com/hez) | mentorship@hez.ca | Sr Dev, Rails, Architecture/Design 
  [Jamie Starke](https://www.jamiestarke.com) | mentoring@jamiestarke.com  | DevOps, AWS, Cloud Architecture 
  [Jerrett Strain](https://www.linkedin.com/in/jerrett/) | jerrett@5stone.io  | Tech Leadership, Dev Team Management, Health Care SaaS  
+ [Steven Bengtson](http://bengtson.ca) | steven.bengtson@me.com | Ruby on Rails, Javascript, jQuery, Angular 4+
  
 ## Looking for Mentorship
 
