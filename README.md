@@ -21,5 +21,6 @@ This is a public list of people in the Victoria tech community that are availabl
  Name                    | Contact                  | Looking for help with  
 -------------------------|--------------------------|--------------------
  [Hez Ronningen](https://github.com/hez) | mentorship@hez.ca | Dev Team Lead, Sr Manager
+ [Evan Dungate](www.linkedin.com/in/evandungate) | evandungate@gmail.com | Wrapping up SENG degree, workforce preperation/future planning
 
 
